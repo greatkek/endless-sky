@@ -125,6 +125,8 @@ phrase "adjectives"
 		"Stern"
 		"Triumphant"
 		"Steady"
+		"Dastardly"
+		"Naggling"
 
 phrase "colors"
 	word
@@ -152,6 +154,7 @@ phrase "colors"
 		"Emerald"
 		"Sapphire"
 		"Dark"
+		"Maroon"
 
 phrase "cardinal directions"
 	word
@@ -245,6 +248,10 @@ phrase "singular nouns"
 		"Phoenix"
 		"Soul"
 		"Teacup"
+		"Fist"
+		"Entity"
+		"Bulwark"
+		"Spearhead"
 
 phrase "plural nouns"
 	word
